@@ -11,3 +11,11 @@ var도 값을 바꿀 수 있음
 //:한줄주석
 /**/:여러줄 주석
 주로 const 사용하고 let은 필요할때만
+<1-9>
+camel case-소문자로 시작하고 스페이스가 필요하면 대문자로 쓰기(daysOfWeek)
+컴퓨터는 0부터세기시작
+<1-10>
+object는 각 value에 이름을 줄 수 있다
+array는 [] 사용, object는 {} 사용
+리스트형식은 array, 여러개의 리스트를 복합적 등 은 object 사용
+object안에 array 넣기도 가능
