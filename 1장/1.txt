@@ -1,0 +1,13 @@
+<1-5>
+js 파일은 body에 가장 마지막에
+<1-6>
+create initialize use
+<1-7>
+다른사람이 너의 변수를 바꾸지 않기를 원한다면 const 변수사용
+바뀌어도 되면 let 사용
+var=variable
+var도 값을 바꿀 수 있음
+<1-8>
+//:한줄주석
+/**/:여러줄 주석
+주로 const 사용하고 let은 필요할때만
